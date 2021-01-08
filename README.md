@@ -7,6 +7,9 @@ It captures the bacground of the person and later on when the person brings the 
 
 # Pre-Requisites 
 Python
+
 OpenCV
+
 Computer Vision
+
 Image Segmentation
